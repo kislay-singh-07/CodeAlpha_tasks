@@ -1,10 +1,10 @@
-# 🎮 Hangman Game (Python)
+#  Hangman Game 
 
-## 📌 Overview
+##  Overview
 
 This is a simple text-based Hangman game developed in Python. The player has to guess a randomly selected word one letter at a time. The game ends when the player correctly guesses the word or makes six incorrect guesses.
 
-## ✨ Features
+##  Features
 
 * Randomly selects a word from a predefined list.
 * Player guesses one letter at a time.
@@ -12,12 +12,12 @@ This is a simple text-based Hangman game developed in Python. The player has to 
 * Displays the current progress of the word.
 * Shows a winning or losing message at the end.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python 3
 * Random module
 
-## 📚 Concepts Used
+##  Concepts Used
 
 * Variables
 * Lists
@@ -27,7 +27,7 @@ This is a simple text-based Hangman game developed in Python. The player has to 
 * User Input
 * Random Module
 
-## ▶️ How to Run
+##  How to Run
 
 1. Make sure Python 3 is installed.
 2. Download or clone this repository.
@@ -38,7 +38,7 @@ This is a simple text-based Hangman game developed in Python. The player has to 
 python hangman.py
 ```
 
-## 🎮 How to Play
+##  How to Play
 
 * A random word is selected.
 * Enter one letter at a time.
@@ -46,7 +46,7 @@ python hangman.py
 * Incorrect guesses reduce the remaining attempts.
 * The game ends when you guess the word or use all six attempts.
 
-## 📷 Sample Output
+##  Sample Output
 
 ```
 ====== HANGMAN GAME ======
@@ -64,7 +64,7 @@ Correct Guess!
 Congratulations! You guessed the word.
 ```
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Difficulty levels
 * Hint system
@@ -72,6 +72,6 @@ Congratulations! You guessed the word.
 * Play again option
 * Graphical user interface (GUI)
 
-## 👨‍💻 Author
+##  Author
 
 Kislay  Singh
